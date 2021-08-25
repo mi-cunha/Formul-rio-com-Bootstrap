@@ -1,0 +1,80 @@
+body{
+    font-family: "Poppins", sans-serif;
+    
+}
+.row{
+    margin: 0;
+}
+.container{
+    padding: 70px 0;
+}
+p{
+    color: #012E40;
+    font-size: 14px;
+}
+
+#chamadaPesquisa{
+    background-image: linear-gradient(#f7797d, #FBD786);
+    text-transform: uppercase;
+
+}
+#chamadaPesquisa .row{
+    display: block;
+    text-align: center;
+}
+#chamadaPesquisa p{
+    font-weight: bold;
+    font-size: 22px;
+    width: auto;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    height: 60px;
+    line-height: 60px;
+}
+#chamadaPesquisa #pesquisa-btn{
+    background-color: coral;
+    color: rgb(43, 23, 9);
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+    width: auto;
+    letter-spacing: 2px;
+    border-radius: 15px;
+    
+}
+#chamadaPesquisa #pesquisa-btn:hover{
+    background-color: #f85b61;
+}
+
+#chamadaPesquisa #pesquisa-btn a{
+    text-decoration: none;
+    color: rgb(43, 23, 9);
+}
+
+#form{
+    background-color: #FBD786;
+}
+#pref{
+    margin-bottom: 20px
+    
+}
+#checkbox{
+    margin-top: 50px;
+}
+#pesquisa-btn2{
+    background-color: coral;
+    color: rgb(43, 23, 9);
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: auto;
+    letter-spacing: 2px;
+    border-radius: 15px; 
+}
+#pesquisa-btn2:hover{
+    background-color: #f85b61;
+}
+
+
+
